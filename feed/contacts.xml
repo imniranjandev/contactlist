@@ -1,0 +1,30 @@
+<contacts>
+    <contact>
+        <name>John Doe</name>
+        <phone>1234567890</phone>
+    </contact>
+    <contact>
+        <name>Jane Smith 1</name>
+        <phone>9876543210</phone>
+    </contact>
+    <contact>
+        <name>Robert Smith 2</name>
+        <phone>9876543211</phone>
+    </contact>
+    <contact>
+        <name>Ramesh Sharma</name>
+        <phone>9876543212</phone>
+    </contact>
+    <contact>
+        <name>Niranjan Sharma</name>
+        <phone>9876543213</phone>
+    </contact>
+    <contact>
+        <name>Roshani</name>
+        <phone>9876543214</phone>
+    </contact>
+    <contact>
+        <name>Saurabh Kumar</name>
+        <phone>9876543215</phone>
+    </contact>
+</contacts>
