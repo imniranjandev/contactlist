@@ -31,7 +31,7 @@ php artisan serve
 
 
 🎯 Usage
-Upload an XML file using the provided form.
+Upload an XML file using the provided form. (Use demo_xml.xml file to create contact list)
 The system will validate and save unique contacts.
 View uploaded contacts in a table format.
 
